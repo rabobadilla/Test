@@ -1,0 +1,36 @@
+<h3>Employee List</h3>
+<br/>
+
+<div class="row">
+<form action="">
+  <div class="form-group">
+    <input type="text" name="id" [(ngModel)]="employee.id" placeholder="Id" class="form-control" autofocus>
+  </div>
+  <button class="btn btn-success btn-block" (click)="getEmployees(employee.id)">
+    Search
+  </button>
+</form>
+<div>
+  <br/>
+  <div class="row">
+<table class="table table-hover">
+  <thead class="thead-dark">
+  <tr>
+    <th *ngFor="let col of columns">
+      {{col}}
+    </th>
+  </tr>
+</thead>
+  <tr *ngFor="let employee of employees">
+    <th scope="row">{{employee.id}}</th>
+      <td>{{employee.name}}</td>
+      <td>{{employee.contractTypeName}}</td>
+      <td>{{employee.roleId}}</td>
+      <td>{{employee.roleName}}</td>
+      <td>{{employee.roleDescription}}</td>
+      <td>{{employee.hourlySalary | currency}}</td>
+      <td>{{employee.monthlySalary | currency}}</td>
+      <td>{{employee.calculatedAnnualSalary | currency }}</td>
+  </tr>
+</table>
+</div>

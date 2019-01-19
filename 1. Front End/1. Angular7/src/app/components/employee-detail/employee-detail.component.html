@@ -1,0 +1,43 @@
+<h3>Employee Detail</h3>
+<br/>
+<div class="row">
+<div class="col-md-4 offset-md-4">
+  <div class="card">
+    <div class="card-body">
+      <form action="">
+        <div class="form-group">
+          <input type="text" name="id" [(ngModel)]="employee.id" placeholder="Id" class="form-control" autofocus>
+        </div>
+        <button class="btn btn-success btn-block" (click)="getEmployee(employee.id)">
+          Search
+        </button>
+      <br/>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="name" [(ngModel)]="employee.name" class="form-control" >
+        </div>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="roleId" [(ngModel)]="employee.roleId" class="form-control" >
+        </div>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="contractTypeName" [(ngModel)]="employee.contractTypeName" class="form-control" >
+        </div>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="roleName" [(ngModel)]="employee.roleName" class="form-control" >
+        </div>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="roleDescription" [(ngModel)]="employee.roleDescription" class="form-control" >
+        </div>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="hourlySalary" [(ngModel)]="employee.hourlySalary" class="form-control" >
+        </div>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="monthlySalary" [(ngModel)]="employee.monthlySalary" class="form-control" >
+        </div>
+        <div class="form-group">
+          <input [disabled]="true" type="text" name="calculatedAnnualSalary" [(ngModel)]="employee.calculatedAnnualSalary" class="form-control" >
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
