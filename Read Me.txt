@@ -1,0 +1,9 @@
+Author: Raul Bobadilla
+Date: 16/01/2018
+
+Notes:
+- Is necessary to run the npm install command to obtain the node modules for front-end app
+- Backend libraries developed in .NET Framework 4.6.2
+- Rest API developed in ASP.NET Core 2.1
+- Front End developed in Angular 7
+- Rest API uri may change, actually is http://localhost:12692/api
