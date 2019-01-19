@@ -1,0 +1,9 @@
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\bin\Debug\MAS.CI.dll
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\bin\Debug\MAS.CI.pdb
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\obj\Debug\MAS.CI.csproj.CoreCompileInputs.cache
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\obj\Debug\MAS.CI.dll
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\obj\Debug\MAS.CI.pdb
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\obj\Debug\MAS.CI.csprojAssemblyReference.cache
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\bin\Debug\MAS.UTILITIES.dll
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\bin\Debug\MAS.UTILITIES.pdb
+D:\TFS\MAS\2. Back End\4. Common Interfaces\MAS.CI\obj\Debug\MAS.CI.csproj.CopyComplete
