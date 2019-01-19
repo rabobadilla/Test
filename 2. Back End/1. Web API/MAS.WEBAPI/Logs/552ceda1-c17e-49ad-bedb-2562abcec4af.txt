@@ -1,0 +1,3 @@
+Date: 18/01/2019 9:42:22 p. m.
+Method: MAS.BL.Classes.EmployeeBL.GetEmployees()
+Exception: Object reference not set to an instance of an object.
