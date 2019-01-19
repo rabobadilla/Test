@@ -1,0 +1,11 @@
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\bin\Debug\MAS.DAL.dll
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\bin\Debug\MAS.DAL.pdb
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\bin\Debug\MAS.CI.dll
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\bin\Debug\MAS.CI.pdb
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\obj\Debug\MAS.DAL.csprojAssemblyReference.cache
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\obj\Debug\MAS.DAL.csproj.CoreCompileInputs.cache
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\obj\Debug\MAS.DAL.csproj.CopyComplete
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\obj\Debug\MAS.DAL.dll
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\obj\Debug\MAS.DAL.pdb
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\bin\Debug\MAS.UTILITIES.dll
+D:\TFS\MAS\2. Back End\3. Data Access Layer\MAS.DAL\bin\Debug\MAS.UTILITIES.pdb
