@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2AAAF1A6-CE46-4D75-BB6D-1438363C40A5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MAS.BL</RootNamespace>
+    <AssemblyName>MAS.BL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\EmployeeBL.cs" />
+    <Compile Include="Classes\HourlySalary.cs" />
+    <Compile Include="Classes\MonthlySalary.cs" />
+    <Compile Include="Classes\SalaryBase.cs" />
+    <Compile Include="Classes\SalaryFabric.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\..\3. Data Access Layer\MAS.DAL\MAS.DAL.csproj">
+      <Project>{ab4a715d-bd26-46cf-a875-b6a12932555d}</Project>
+      <Name>MAS.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\4. Common Interfaces\MAS.CI\MAS.CI.csproj">
+      <Project>{55aa3194-3fe4-4ca1-a6d7-3eec499bcf66}</Project>
+      <Name>MAS.CI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\5. Utilities\MAS.UTILITIES\MAS.UTILITIES.csproj">
+      <Project>{3ea91b90-8d2b-403c-b3ba-aa1723a104d3}</Project>
+      <Name>MAS.UTILITIES</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

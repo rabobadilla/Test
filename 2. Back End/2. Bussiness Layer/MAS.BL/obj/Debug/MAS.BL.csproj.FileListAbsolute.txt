@@ -1,0 +1,13 @@
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.BL.dll
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.BL.pdb
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.CI.dll
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.DAL.dll
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.DAL.pdb
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.CI.pdb
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\obj\Debug\MAS.BL.csprojAssemblyReference.cache
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\obj\Debug\MAS.BL.csproj.CoreCompileInputs.cache
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\obj\Debug\MAS.BL.csproj.CopyComplete
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\obj\Debug\MAS.BL.dll
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\obj\Debug\MAS.BL.pdb
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.UTILITIES.dll
+D:\TFS\MAS\2. Back End\2. Bussiness Layer\MAS.BL\bin\Debug\MAS.UTILITIES.pdb
