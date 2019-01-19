@@ -1,0 +1,5 @@
+D:\TFS\MAS\2. Back End\5. Utilities\MAS.UTILITIES\bin\Debug\MAS.UTILITIES.dll
+D:\TFS\MAS\2. Back End\5. Utilities\MAS.UTILITIES\bin\Debug\MAS.UTILITIES.pdb
+D:\TFS\MAS\2. Back End\5. Utilities\MAS.UTILITIES\obj\Debug\MAS.UTILITIES.csproj.CoreCompileInputs.cache
+D:\TFS\MAS\2. Back End\5. Utilities\MAS.UTILITIES\obj\Debug\MAS.UTILITIES.dll
+D:\TFS\MAS\2. Back End\5. Utilities\MAS.UTILITIES\obj\Debug\MAS.UTILITIES.pdb
